@@ -15,7 +15,7 @@ ___
 
 + Главная страница
 
-![Main page](/my-app/src/resources/img/2022-09-27_09-48-23.png)
+![Main page](/src/resources/img/2022-09-27_09-48-23.png)
 
 ___
 
